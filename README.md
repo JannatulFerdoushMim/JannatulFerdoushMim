@@ -9,6 +9,6 @@
 -  Pronouns: She/Her  
 -  Fun fact: I enjoy **gardening** and **writing poetry**  
  
-   **Languages:** C, C++, C#, Python, HTML, CSS...  
-   **Tools & Platforms:** Git, GitHub, VS Code, Competitive Programming Platforms  
+  **Languages:**            C, C++, C#, Python, HTML, CSS...  
+  **Tools & Platforms:**    Git, GitHub, VS Code, Sublime text, Competitive Programming Platforms  
 
